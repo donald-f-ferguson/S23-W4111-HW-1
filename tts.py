@@ -1,6 +1,6 @@
 import json
 
-from webapp.resources.StudentResource import StudentResource
+from old.webapp.resources.StudentResource import StudentResource
 
 
 def t1():
