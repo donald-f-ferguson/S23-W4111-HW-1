@@ -1,0 +1,155 @@
+ID,group,characterName
+0,Stark,Arya Stark
+1,Stark,Benjen Stark
+2,Stark,Bran Stark
+3,Stark,Catelyn Stark
+4,Stark,Eddard Stark
+5,Stark,Ghost
+6,Stark,Grey Wind
+7,Stark,Jon Snow
+8,Stark,Lady
+9,Stark,Nymeria
+10,Stark,Rickon Stark
+11,Stark,Robb Stark
+12,Stark,Sansa Stark
+13,Stark,Shaggydog
+14,Stark,Summer
+15,Targaryen,Daenerys Targaryen
+16,Targaryen,Drogon
+17,Targaryen,Rhaegal
+18,Targaryen,Viserion
+19,Targaryen,Viserys Targaryen
+20,Baratheon,Joffrey Baratheon
+21,Baratheon,Myrcella Baratheon
+22,Baratheon,Renly Baratheon
+23,Baratheon,Robert Baratheon
+24,Baratheon,Selyse Baratheon
+25,Baratheon,Shireen Baratheon
+26,Baratheon,Stannis Baratheon
+27,Baratheon,Tommen Baratheon
+28,Baratheon,Gendry
+29,Lannister,Cersei Lannister
+30,Lannister,Jaime Lannister
+31,Lannister,Kevan Lannister
+32,Lannister,Lancel Lannister
+33,Lannister,Tyrion Lannister
+34,Lannister,Tywin Lannister
+35,Night's Watch,Alliser Thorne
+36,Night's Watch,Eddison Tollett
+37,Night's Watch,Grenn
+38,Night's Watch,Jeor Mormont
+39,Night's Watch,Karl Tanner
+40,Night's Watch,Maester Aemon
+41,Night's Watch,Olly
+42,Night's Watch,Othell Yarwyck
+43,Night's Watch,Pypar
+44,Night's Watch,Qhorin Halfhand
+45,Night's Watch,Rast
+46,Night's Watch,Samwell Tarly
+47,Night's Watch,Yoren
+48,Dothraki,Doreah
+49,Dothraki,Irri
+50,Dothraki,Khal Drogo
+51,Dothraki,Rakharo
+52,Dothraki,Qhono
+53,Greyjoy,Balon Greyjoy
+54,Greyjoy,Euron Greyjoy
+55,Greyjoy,Theon Greyjoy
+56,Greyjoy,Yara Greyjoy
+57,Tyrell,Loras Tyrell
+58,Tyrell,Mace Tyrell
+59,Tyrell,Margaery Tyrell
+60,Tyrell,Olenna Tyrell
+61,Wildlings,Baby Sam
+62,Wildlings,Craster
+63,Wildlings,Gilly
+64,Wildlings,Mag the Mighty
+65,Wildlings,Mance Rayder
+66,Wildlings,Osha
+67,Wildlings,Rattleshirt
+68,Wildlings,Thenn Warg
+69,Wildlings,Tormund Giantsbane
+70,Wildlings,Wun Wun
+71,Wildlings,Ygritte
+72,Martell,Doran Martell
+73,Martell,Ellaria Sand
+74,Martell,Nymeria Sand
+75,Martell,Obara Sand
+76,Martell,Oberyn Martell
+77,Martell,Trystane Martell
+78,Martell,Tyene Sand
+79,Frey,Black Walder Rivers
+80,Frey,Lothar Frey
+81,Frey,Walder Frey
+82,Tully,Brynden Tully
+83,Tully,Edmure Tully
+84,White Walkers,Mag the Mighty Wight
+85,White Walkers,The Night King
+86,White Walkers,White Walker
+87,White Walkers,Wight Wildling Girl
+88,White Walkers,Wun Wun Wight
+89,Include,Archmaester Ebrose
+90,Include,Barristan Selmy
+91,Include,Beric Dondarrion
+92,Include,Brienne of Tarth
+93,Include,Bronn
+94,Include,Daario Naharis
+95,Include,Davos Seaworth
+96,Include,Gendry
+97,Include,Grand Maester Pycelle
+98,Include,Greatjon Umber
+99,Include,Gregor Clegane
+100,Include,Greizhen mo Ullhor
+101,Include,Grey Worm
+102,Include,Hallyne
+103,Include,High Sparrow
+104,Include,Hizdahr zo Loraq
+105,Include,Hodor
+106,Include,Hot Pie
+107,Include,Janos Slynt
+108,Include,Jaqen H'ghar
+109,Include,Jojen Reed
+110,Include,Jorah Mormont
+111,Include,Jory Cassel
+112,Include,Kraznys mo Nakloz
+113,Include,Lady Crane
+114,Include,Leaf
+115,Include,Locke
+116,Include,Lommy Greenhands
+117,Include,Lord Varys
+118,Include,Lyanna Mormont
+119,Include,Lysa Arryn
+120,Include,Maester Luwin
+121,Include,Matthos Seaworth
+122,Include,Meera Reed
+123,Include,Melisandre
+124,Include,Mirri Maz Duur
+125,Include,Missandei
+126,Include,Olyvar
+127,Include,Petyr Baelish
+128,Include,Podrick Payne
+129,Include,Prendahl na Ghezn
+130,Include,Pyat Pree
+131,Include,Qyburn
+132,Include,Ramsay Snow
+133,Include,Razdal mo Eraz
+134,Include,Rickard Karstark
+135,Include,Robin Arryn
+136,Include,Rodrik Cassel
+137,Include,Roose Bolton
+138,Include,Ros
+139,Include,Salladhor Saan
+140,Include,Sandor Clegane
+141,Include,Septa Mordane
+142,Include,Septa Unella
+143,Include,Shae
+144,Include,Silk King
+145,Include,Smalljon Umber
+146,Include,Syrio Forel
+147,Include,Talisa Maegyr
+148,Include,The Waif
+149,Include,Thoros of Myr
+150,Include,Three-Eyed Raven
+151,Include,Xaro Xhoan Daxos
+152,Include,Yezzan zo Qaggaz
+153,Include,Yohn Royce
